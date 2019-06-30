@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">memphis_womens_legacy_trail</string>
+    <string name="app_name">Womens Legacy Trail</string>
     <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
     <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
 </resources>
